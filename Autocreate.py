@@ -5,7 +5,7 @@ import random
 import string
 import json
 import hashlib
-from faker import Fake
+from faker import Faker
 os.system('clear')
 
 print(f"""
